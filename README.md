@@ -1,10 +1,17 @@
-# The Art of Prompt Engineering
-## Author : Cognitive Class AI
+# Natural Language Processing with Hugging Face Transformers
 
-### Mentee assignment from IBM Advance AI @ Infinite Learning 
-### completion of The Art of Prompt Engineering from CognitiveClass.ai
+**Author:** Svitlana Kramar
+
 ---
 
-# Mentee Info
-- Name : Thania Ardilla
-- Program : IBM Advance AI
+## Mentee Info
+
+- **Mentee assignment from IBM Advance AI @ Infinite Learning**
+- **completion of The Art of Prompt Engineering from CognitiveClass.ai**
+  
+---
+
+## Mentee Information
+
+- **Name:** Thania Ardilla
+- **Program:** IBM Advance AI
