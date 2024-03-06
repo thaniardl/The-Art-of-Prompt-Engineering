@@ -7,7 +7,7 @@
 ## Mentee Info
 
 - **Mentee assignment from IBM Advance AI @ Infinite Learning**
-- **completion of The Art of Prompt Engineering from CognitiveClass.ai**
+- **completion of Natural Language Processing with Hugging Face Transformers from IBM Skills Network**
   
 ---
 
